@@ -26,7 +26,7 @@ dependencies:
   rive_common:
     git:
       url: https://github.com/FirzanNazriSoftwell/rive_common-0.4.15.git
-      ref: master
+      ref: main
 
 dev_dependencies:
   flutter_test:
